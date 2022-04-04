@@ -1,0 +1,61 @@
+.jobDiv {
+  background-color: #7e858e;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+}
+.wrap {
+  flex-wrap: wrap;
+}
+.sort-by-icon1 {
+  background-color: transparent;
+  border-width: 0px;
+  width: 20px;
+  height: 20px;
+}
+.sort-by-icon2 {
+  background-color: transparent;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  width: 33px;
+  height: 33px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.subDiv1 {
+  width: 30vw;
+}
+.hr1 {
+  width: 24vw;
+  text-align: center;
+  margin-left: 15px;
+}
+.h5 {
+  font-size: 25px;
+  font-weight: bold;
+}
+.filterDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+.img6 {
+  width: 500px;
+}
+.ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.input1 {
+  height: 33px;
+  font-size: 17px;
+  width: 300px;
+  margin-bottom: 25px;
+  padding: 6px;
+  color: white;
+  font-weight: bold;
+}

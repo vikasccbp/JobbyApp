@@ -1,0 +1,14 @@
+.employeeDiv {
+  list-style-type: none;
+  padding-left: 0px;
+  height: 40px;
+}
+.input3 {
+  width: 20px;
+  height: 20px;
+  padding-top: 20px;
+}
+label {
+  padding-bottom: 5px;
+  margin-left: 10px;
+}

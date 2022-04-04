@@ -1,0 +1,37 @@
+.headerMainDiv {
+  height: 15vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #272727;
+}
+li {
+  list-style-type: none;
+}
+.img2 {
+  width: 100px;
+}
+.div1 {
+  display: flex;
+  width: 8vw;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+}
+.link {
+  color: white;
+  text-decoration: none;
+}
+.button1 {
+  background-color: blue;
+  height: 34px;
+  width: 110px;
+  border-width: 0px;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  font-family: Roboto;
+}

@@ -1,0 +1,29 @@
+.homeDiv {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 90vh;
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.div2 {
+  padding: 20px;
+  padding-top: 40px;
+  padding-left: 40px;
+  min-width: 500px;
+  max-width: 500px;
+  color: white;
+}
+h1 {
+  color: white;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 32px;
+  min-width: 500px;
+}
+.p1 {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 20px;
+}

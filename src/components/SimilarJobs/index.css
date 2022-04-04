@@ -1,0 +1,71 @@
+.jobCardDiv2 {
+  background-color: #b6c5ff;
+  width: 40vw;
+  height: 60vh;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin: 10px;
+}
+.link {
+  text-decoration: none;
+}
+.img12 {
+  width: 100px;
+  margin-right: 20px;
+}
+.div5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 30vw;
+  justify-content: space-between;
+}
+.h5 {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Roboto;
+  margin-bottom: 0px;
+}
+.sort-by-icon {
+  color: yellow;
+  margin: 0px;
+}
+.sort-by-icon1 {
+  color: white;
+  margin: 0px;
+}
+.div7 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 0px;
+}
+.p2 {
+  color: white;
+  font-weight: bold;
+  margin-left: 5px;
+}
+.div8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+}
+.div10 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.div9 {
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align: center;
+}
+.p3 {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+}
